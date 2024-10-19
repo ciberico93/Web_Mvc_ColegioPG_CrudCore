@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_COLEGIO_APP_0609.props" />
+</Project>

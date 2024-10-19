@@ -1,0 +1,40 @@
+﻿@model List<Alumno>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Lista de Alumnos</h1>
+
+<a class="btn btn-primary" asp-action="Agregar" asp-controller="Home">Agregar</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td> ID_Alumno</td>
+            <td> Nombre</td>
+            <td> Apellido</td>
+            <td> Dirección</td>
+            <td> Teléfono</td>
+            <td> Correo</td>
+            <td> Curso</td>
+        </tr>
+
+
+    </thead>
+
+    <tbdody>
+        @foreach (var alumno in Model)
+        {
+            <tr>
+                <td> @alumno.Id</td>
+                <td> @alumno.Nombre</td>
+                <td> @alumno.Apellido</td>
+                <td> @alumno.Direccion</td>
+                <td> @alumno.Telefono</td>
+                <td> @alumno.Correo</td>
+                <td>@alumno.IdCursosNavigation?.Nombre</td>
+                
+            </tr>
+        }
+    </tbdody>
+
+</table>

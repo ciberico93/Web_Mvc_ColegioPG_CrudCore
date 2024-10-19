@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|d:\\desarrollos todos\\proyectos carlos iberico mvc\\sistemacolegiopg\\web_mvc_colegiopg_crudcore\\mvc_web_colegiopg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|d:\\desarrollos todos\\proyectos carlos iberico mvc\\sistemacolegiopg\\web_mvc_colegiopg_crudcore\\mvc_web_colegiopg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|d:\\desarrollos todos\\proyectos carlos iberico mvc\\sistemacolegiopg\\web_mvc_colegiopg_crudcore\\mvc_web_colegiopg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|d:\\desarrollos todos\\proyectos carlos iberico mvc\\sistemacolegiopg\\web_mvc_colegiopg_crudcore\\mvc_web_colegiopg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5323C882-AAF3-4D64-A36C-B75A7E9AD552}|CRUD_COLEGIO_APP_0609.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 384,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:43:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:42:47.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T19:41:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DESARROLLOS TODOS\\PROYECTOS CARLOS IBERICO MVC\\SistemaColegioPG\\Web_Mvc_ColegioPG_CrudCore\\Mvc_Web_ColegioPG\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T19:41:29.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
