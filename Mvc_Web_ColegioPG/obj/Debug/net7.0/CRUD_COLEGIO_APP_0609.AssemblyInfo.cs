@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD_COLEGIO_APP_0609")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23c409eb5bd4275bdfe28fc28c325f7c0242645a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_COLEGIO_APP_0609")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_COLEGIO_APP_0609")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
